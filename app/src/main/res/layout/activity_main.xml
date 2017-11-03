@@ -27,7 +27,8 @@
         android:layout_alignParentBottom="true"
         android:layout_width="match_parent"
         android:background="@drawable/bottom_background"
-        android:layout_height="85dp">
+        android:layout_marginBottom="5dp"
+        android:layout_height="90dp">
 
         <LinearLayout
             android:orientation="horizontal"
@@ -35,7 +36,7 @@
             android:layout_height="wrap_content">
 
             <ImageButton
-                android:src="@drawable/icon1_final"
+                android:src="@drawable/icon_1111"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -44,7 +45,7 @@
                 />
 
             <ImageButton
-                android:src="@drawable/icon3_final"
+                android:src="@drawable/ions_2222"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -53,7 +54,7 @@
                 />
 
             <ImageButton
-                android:src="@drawable/icon2_final"
+                android:src="@drawable/icon_3333"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -62,7 +63,7 @@
                 />
 
             <ImageButton
-                android:src="@drawable/icon4_final"
+                android:src="@drawable/icons_4444"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@android:color/transparent"
